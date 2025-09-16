@@ -35,3 +35,4 @@ def detect_column_types(df, threshold=20):
             column_types[col] = "categorical"
     
     return column_types
+
